@@ -1,0 +1,1 @@
+gsutil cp /home/martinalejandr/data-practice/spark-in-gcp/data/* gs://mcerv-spark-with-dataproc/spark-in-gcp/data 
